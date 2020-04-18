@@ -1,5 +1,7 @@
 # vue-todo-2019
 
+# TUTORIAL [I created the exact same app in Vue and Svelte. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-vue-and-svelte-here-are-the-differences-c649f8d4ce0a)
+
 ## Project setup
 ```
 yarn install
