@@ -1,6 +1,6 @@
 # Debug Chrome from VSC
 Launch Chrome from the command line:
->`$ chromiumm-browser --remote-debugging-port=9222`
+>`$ chromium-browser --remote-debugging-port=9222`
 
 
 # vue-todo-2019
