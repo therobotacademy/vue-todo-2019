@@ -25,7 +25,9 @@ export default {
   },
   data() {
     return {
-      list: [{ id: 1, text: "clean the house" }, { id: 2, text: "buy milk" }],
+      list: [
+        { id: 1, text: "clean the house" },
+        { id: 2, text: "buy milk" }],
       todo: "",
       logo: Logo
     };
